@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/revolutLightBlue</color>
+    <color name="colorPrimaryDark">@color/revolutBlue</color>
+<!--    <color name="colorPrimary">#4caf50</color>-->
+<!--    <color name="colorPrimaryDark">#087f23</color>-->
+    <color name="colorAccent">#fbc02d</color>
+    <color name="primaryTextColor">#333333</color>
+    <color name="secondaryTextColor">#6e7985</color>
+    <color name="revolutLightBlue">#FF52C3E7</color>
+    <color name="revolutBlue">#FF0089CC</color>
+</resources>

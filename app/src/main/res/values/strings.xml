@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currencies</string>
+    <string name="check_internet_connection">Check your internet connection</string>
+    <string name="serializable_object_changed">It looks like one of the serializable objects received from the server has changed</string>
+    <string name="internal_server_error">Sorry, it seems we have a server error. Please try again later</string>
+    <string name="not_ready">Try again later</string>
+    <string name="too_many_requests">Too many requests. Try again later</string>
+    <string name="rates">Rates</string>
+    <string name="open_db">Open database</string>
+    <string name="courses_relevant_formatter">Courses are relevant on %s</string>
+    <string name="close">Close</string>
+</resources>

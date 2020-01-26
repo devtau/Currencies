@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">Валюты</string>
+	<string name="check_internet_connection">Проверьте подключение к сети интернет</string>
+	<string name="serializable_object_changed">Похоже, что изменился один из сериализуемых объектов, получаемых от сервера</string>
+	<string name="internal_server_error">Извините, кажется у нас ошибка на сервере. Повторите запрос позже</string>
+	<string name="not_ready">Повторите запрос позже</string>
+	<string name="too_many_requests">Слишком много попыток. Повторите запрос позже</string>
+	<string name="rates">Курсы обмена</string>
+	<string name="open_db">Открыть базу данных</string>
+	<string name="courses_relevant_formatter">Курсы актуальны на %s</string>
+	<string name="close">Закрыть</string>
+</resources>
